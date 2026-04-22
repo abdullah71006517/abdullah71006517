@@ -5,7 +5,7 @@
 * 🎓 CSE Student (Bangladesh)
 * 💻 Focused on **Java Backend Development**
 * 📚 Currently learning **OOP, Data Structures & Algorithms**
-* 🚀 Building real-world project: **HelpHub (Social Help Platform)**
+
 
 ---
 
