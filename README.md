@@ -1,31 +1,78 @@
-<h1 align="center">Hi 👋, I'm abdullah</h1>
-<h3 align="center">An aspiring software developer .</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah71006517&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah71006517" /> </p>
+## 🧠 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah71006517" alt="abdullah71006517" /></a> </p>
+* 🎓 CSE Student (Bangladesh)
+* 💻 Focused on **Java Backend Development**
+* 📚 Currently learning **OOP, Data Structures & Algorithms**
+* 🚀 Building real-world project: **HelpHub (Social Help Platform)**
 
-- 🔭 I’m currently working on [bus ticket management system](https://github.com/abdullah71006517/console-base-project-/blob/main/BUS%20ticket)
+---
 
-- 🌱 I’m currently learning **opp and algorithm**
+## 🔥 Current Work
 
-- 👯 I’m looking to collaborate on [inventory management](https://github.com/abdullah71006517/console-base-project-/blob/main/project%202.c)
+* 🔭 Working on: **HelpHub (Console → Spring Boot Project)**
+* 🌱 Learning: **Java OOP, Collections, Stream API, Algorithms**
+* 👯 Looking to collaborate on: Backend / Java projects
 
-- 📫 How to reach me **abdullah42867@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdullah504275a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah504275a5" height="30" width="40" /></a>
-<a href="https://fb.com/100074909087909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100074909087909" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdullah17104481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullah17104481" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdullah1233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdullah1233" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah71006517&show_icons=true&locale=en&layout=compact" alt="abdullah71006517" /></p>
+## 🛠️ Tech Stack (Horizontal View)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah71006517&show_icons=true&locale=en" alt="abdullah71006517" /></p>
+### 💻 Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah71006517&" alt="abdullah71006517" /></p>
+`Java` | `C` | `C++` | `Python`
+
+### ⚙️ Backend & Concepts
+
+`OOP` | `Data Structures` | `Algorithms` | `File Handling` | `Collections`
+
+### 🌐 Web Basics
+
+`HTML` | `CSS`
+
+### 🛠️ Tools
+
+`Git` | `GitHub` | `IntelliJ IDEA` | `VS Code`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 HelpHub (Main Project)
+
+> A social platform to connect people who need help with those who can provide it
+
+* Console-based system (Phase 1)
+* OOP + Collections
+* Future: Spring Boot + MongoDB
+
+---
+
+### 🔹 Bus Ticket Management System
+
+👉 [View Project](https://github.com/abdullah71006517/console-base-project-/blob/main/BUS%20ticket)
+
+---
+
+### 🔹 Inventory Management System
+
+👉 [View Project](https://github.com/abdullah71006517/console-base-project-/blob/main/project%202.c)
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🎯 Future Goals
+
+* Master **Spring Boot**
+* Build **real-world backend systems**
+*
+
+---
